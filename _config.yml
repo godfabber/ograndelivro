@@ -2,7 +2,7 @@
 title: O Grande Livro dos Erros Makers
 email: edu@edulopes.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/livro/" # the subpath of your site, e.g. /blog/
+baseurl: "/ograndelivro/" # the subpath of your site, e.g. /blog/
 url: "http://www.edulopes.com" # the base hostname & protocol for your site
 
 twitter_username:
